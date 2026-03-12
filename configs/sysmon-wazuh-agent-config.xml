@@ -1,0 +1,4 @@
+<localfile>
+  <log_format>eventchannel</log_format>
+  <location>Microsoft-Windows-Sysmon/Operational</location>
+</localfile>

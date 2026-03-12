@@ -1,0 +1,6 @@
+<integration>
+  <name>shuffle</name>
+  <hook_url>https://ca.shuffler.io/api/v1/hooks/webhook_d65ed027-2eb1-4224-add2-12358a70341f</hook_url>
+  <level>3</level>
+  <alert_format>json</alert_format>
+</integration>
