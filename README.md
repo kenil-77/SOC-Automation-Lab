@@ -1,6 +1,5 @@
 # SOC-Automation-Lab
 Automated SOC pipeline using Wazuh, Shuffle, and TheHive for real-time threat detection and response
-# SOC Automation Lab 🛡️
 
 ## Overview
 A fully automated Security Operations Center (SOC) pipeline built 
